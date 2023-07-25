@@ -5,8 +5,8 @@ import Card from "./card.jsx";
 const Row = (props) => {
     return (
         <>
-        <div class="container-fluid">
-            <div class="row">
+        <div class="container-fluid my-auto">
+            <div class="row pt-4">
                 <div class="col">
                     <Card />
                 </div>
