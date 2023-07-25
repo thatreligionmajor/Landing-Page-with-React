@@ -6,7 +6,7 @@ const Footer = (props) => {
         <>
             <nav className="navbar bg-dark d-flex">
                 <div className="container-fluid">
-                    <span className="navbar-brand m-auto text-light">
+                    <span className="navbar-brand m-auto" style={{color: "#fdc57b"}}>
                         Copyright © 2023 Your Site
                     </span> 
                 </div>

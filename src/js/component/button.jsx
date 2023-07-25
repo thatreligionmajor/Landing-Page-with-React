@@ -5,7 +5,9 @@ import PropTypes from "prop-types";
 const Button = ({buttonLabel}) => {
     return (
         <>
-        <button type="button" class="btn btn-primary">{buttonLabel}</button>
+        <button type="button" class="btn" style={{background: "#7fa99b", color: "#394a51"}}>
+            {buttonLabel}
+            </button>
         </>
     );
 }

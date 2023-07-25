@@ -6,9 +6,9 @@ const Jumbotron = () => {
     return (
         <>
         <div className="jumbotron jumbotron-fluid">
-            <div className="container bg-light pb-3 pt-4" >
+            <div className="container pb-3 pt-4 rounded" style={{background: "#fbf2d5"}}>
                 <h1 className="display-4">A Warm Welcome!</h1>
-                <p className="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique auaerat nam nobis illo aspernatur vitae fugiat numquam repeliat.</p>
+                <p className="lead" style={{color: "#394a51"}}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique auaerat nam nobis illo aspernatur vitae fugiat numquam repeliat.</p>
                 <Button
                     buttonLabel="Call to action!"    
                 />
