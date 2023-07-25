@@ -6,9 +6,9 @@ import propTypes from "prop-types";
 
 const Card = (props) => {
     return (
-        <>
+        <div className="cardContainer">
         <div className="card" style={{width: "18 rem"}}>
-        <img className="card-img-top object-fit-cover" style={{height: "18 rem"}}  
+        <img className="card-img-top" style={{height: "18 rem"}}
         src="https://source.unsplash.com/random/" 
         alt="Randomized card image" 
         />
@@ -23,7 +23,7 @@ const Card = (props) => {
                 />
         </div>
         </div>
-        </>
+        </div>
     );
 };
 

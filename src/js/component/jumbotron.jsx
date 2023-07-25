@@ -6,7 +6,7 @@ const Jumbotron = () => {
     return (
         <>
         <div className="jumbotron jumbotron-fluid">
-            <div className="container bg-light pb-3" >
+            <div className="container bg-light pb-3 pt-4" >
                 <h1 className="display-4">A Warm Welcome!</h1>
                 <p className="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique auaerat nam nobis illo aspernatur vitae fugiat numquam repeliat.</p>
                 <Button
