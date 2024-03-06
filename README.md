@@ -1,4 +1,4 @@
-# Hello World with React boilerplate
+# Landing Page with React
 
 Start coding a react application
 
@@ -12,7 +12,7 @@ Start coding a react application
 You can update the `styles/index.css` or `js/index.js` depending on your needs.
 Add more files into your, `./src/js/components` or styles folder as you need them.
 
-## Local Installation (skip if you are working on codespaces or gitpod)
+### Local Installation (skip if you are working on codespaces or gitpod)
 
 Download the boilerplate using git
 
@@ -34,6 +34,10 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 - Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
 - One-command publish of the code to github pages with `npm run deploy:github`.
 - Babel 7 (really fast).
+
+## Preview
+![image](https://github.com/thatreligionmajor/Week-6-Landing-Page-with-React/assets/112668448/e38a7e0e-15f8-4a8e-926c-1e75a930b78c)
+
 
 ### Contributors
 
