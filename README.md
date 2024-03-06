@@ -36,8 +36,10 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 - Babel 7 (really fast).
 
 ## Preview
+### Check out an Image
 ![image](https://github.com/thatreligionmajor/Week-6-Landing-Page-with-React/assets/112668448/e38a7e0e-15f8-4a8e-926c-1e75a930b78c)
-
+### See me Live
+https://landing-page-with-react-eta.vercel.app/ 
 
 ## What I Learned
 
