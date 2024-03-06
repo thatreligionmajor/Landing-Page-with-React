@@ -39,8 +39,6 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 ![image](https://github.com/thatreligionmajor/Week-6-Landing-Page-with-React/assets/112668448/e38a7e0e-15f8-4a8e-926c-1e75a930b78c)
 
 
-### Contributors
+## What I Learned
 
-This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
-
-You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
+This project was my first time using React.js in order to render components!
