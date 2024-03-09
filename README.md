@@ -44,4 +44,4 @@ https://landing-page-with-react-eta.vercel.app/
 
 ## What I Learned
 
-This project was my first time using React.js in order to render components!
+This project was my first time using React.js in order to render components! I also used PropTypes to display different images on each card to increase efficiency and save code!
