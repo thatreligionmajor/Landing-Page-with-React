@@ -37,7 +37,8 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 
 ## Preview
 ### Check out an Image
-![image](https://github.com/thatreligionmajor/Week-6-Landing-Page-with-React/assets/112668448/e38a7e0e-15f8-4a8e-926c-1e75a930b78c)
+![image](https://github.com/thatreligionmajor/Landing-Page-with-React/assets/112668448/42dac177-99a3-462f-b124-30c027020267)
+
 ### See me Live
 https://landing-page-with-react-eta.vercel.app/ 
 
